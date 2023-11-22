@@ -4,6 +4,20 @@ import { Inter, Architects_Daughter } from 'next/font/google'
 import Header from '@/components/ui/header'
 import VideoCard from "@/components/videoCard";
 
+interface VideoData {
+    etag?: string;
+    // Add more properties based on the actual structure of your data
+}
+
+interface PlaylistData {
+    items: VideoData[];
+    // Add more properties based on the actual structure of your data
+}
+
+interface VideosProps {
+    playlistsData: PlaylistData[];
+}
+
 const inter = Inter({
     subsets: ['latin'],
     variable: '--font-inter',
@@ -45,7 +59,7 @@ export async function getServerSideProps() {
     };
 }
 
-export default function Videos({ playlistsData }) {
+export default function Videos({ playlistsData }: VideosProps) {
     const combinedData = playlistsData.flatMap((data) => data.items);
 
     return (
