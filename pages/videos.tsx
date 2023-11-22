@@ -6,6 +6,17 @@ import VideoCard from "@/components/videoCard";
 
 interface VideoData {
     etag?: string;
+    snippet: {
+        resourceId: {
+            videoId: string;
+        };
+        thumbnails: {
+            medium: {
+                url: string;
+            };
+        };
+        title: string;
+    };
     // Add more properties based on the actual structure of your data
 }
 
