@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "german-classes-by-palka",
+  "private_key_id": "5f98e21debc60d69a3e57bdd3edca50eeb104e72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7tSwaZRWLV4+h\nd41vb0W5erVOzRrtJS8Q/hAhyYj60O8QK/wZRVSg0aWU91c6EC8E4/ZpqPmeC3co\nnWZlRN64/k16x+YmiR3pxkBDzK8E+iD1pho4JY1zhpM3lnO2Rex/1FLsAjHhA7rx\ngP+3xRdye8l1Vn+GjYgBUllt7nSRBRLKgw30tZPCHF62+3b1eI0M4IOBMScR/eDO\nDOU1G93z23X6HgTHKFQxcxRlQd6h3lKl3b2gdY/CoLmrlFak/8ap/X/PkV7bU9v0\nyDomk/pkr6WVsX928+tqwRt5xBDfcNlZuRb8Fo5h7FJF9aSmzgD4FfBtPbzOULBY\n8kGMIMCDAgMBAAECggEABP7chnP5P6TxbCKCj5wpAWIxesA8/rcLdSAl2BhafmkF\na8CX7CjrCH/72vvoL4yTC8YbXpLXgywanD3wJd1620vdTllil9T0swOKiKNlEbSs\ndY0u9nPoEKfcuXvWEYbz39phPem4X8eEd/1EZk98Vm4n8uj96jFQaiSXFQoQbR7n\nRVXi66Lw2xXEi/9Adh6uuyo03rEduA9YElBDgeRn3uCDFlgB2YIgxbuqIan/ee+C\nJymgKDUBKqxRfaosRDSBszGCS9ZddtoPuynwyqoz783x6Vtteue80u1jzITcAbIN\nGIFOJ7aUonMr8Vd4u44dsI96XHFt7Bubi0XB03e+UQKBgQDifani44lVLpGUX0NO\nuet3iqf59fqg80Xf4AOzyORi8AuQBh3cvN5eoN4wIj5dpD8zE66DAKMiTTkdWgrx\nokFSuPbrSYxf/jnYvBLRCHU7UQylGh6jL//uLW4mgbI6ZmruRGYTVwxJuAaSVjrs\ndmpqOqraIi7yAQcn/AKnSbhgMwKBgQDUKfEUVotbEkOiVQJVYn+tDUAXUaFdXTYQ\nZDbEvMjSktZJyADQHqUdPSY3/2FezUkyszeGF1iyPtsGajIADCV6d9UR0Yk4UZaW\ngGhPtcnSeXFJbzgg5P9tsaLkQAPdrl4J0wuiNTY/6ditlm3rukHkevQc7yJO/ePL\nmoNEqBaOcQKBgQCv10JLTb50rMgHuoImIAAo+jR5wziHNvg73M7jCQgPrDA97BHJ\nK7U1II4ALsXeq8MJY7FsMdV1ryC1og+3E/LFR6ckeyCJ8nV0yGePdJKXr9Ayann4\n1i5L+2d2a+E0qAlC3UWmpEF9BmvLtzjeFv19Zfj5i+qIprWonGZu/LQxswKBgFy5\nH9WFpU3eA5UUlfp/G9Gjstj+IgnNzO0I/y6oWxQ8fE6ujDxoyDypFuTuRb3K9iyk\nSqXd2jO8aLi6/LMsm8yURpiM/O2SKsAHyo7boiLMVIiFhQBLVJ66PbiHiaj+pbah\nd7oii10PdFUZI10cf+O9IKbslA/1wfKfyrLcy07hAoGBAJOm6yCkmGzu8M2vIinO\nwb90fMADHSZ4cHyimCvIgCt6XOyaKq+eRrcYvEvqtmjkxeXbTYXgR4rtMELHL1RF\nUEwg9gBr9nXWn8zhvk/Ye68FvnzkX2tROaJ0zSYwQ6r23rU2Cbr6XcNLJ7BAjcx1\nSNVX9bGdO8hYwAEZY20dB7tF\n-----END PRIVATE KEY-----\n",
+  "client_email": "german-classes-by-palka@german-classes-by-palka.iam.gserviceaccount.com",
+  "client_id": "108671906158612160531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/german-classes-by-palka%40german-classes-by-palka.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

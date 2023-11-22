@@ -22,7 +22,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="#"
+                  href="/"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Home
@@ -39,8 +39,8 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="#" className="btn-sm text-white ml-3">
-                  Testimonials
+                <Link href="/videos" className="btn-sm text-white ml-3">
+                  Videos
                 </Link>
               </li>
               <li>
