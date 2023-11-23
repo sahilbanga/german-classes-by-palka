@@ -7,7 +7,7 @@ export default function Header() {
   const pathname = usePathname()
 
   // Function to determine if the link is active
-  const isLinkActive = (href) => {
+  const isLinkActive = (href: string) => {
     return pathname === href;
   };
 
