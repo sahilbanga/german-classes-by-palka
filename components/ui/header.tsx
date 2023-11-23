@@ -34,7 +34,7 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="#" className="btn-sm text-white ml-3">
+                <Link href="/about" className="btn-sm text-white ml-3">
                   About
                 </Link>
               </li>
