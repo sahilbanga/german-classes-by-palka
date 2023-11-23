@@ -85,7 +85,7 @@ export default function Videos({ playlistsData }: VideosProps) {
                                 <h1 className="h1">German Classes Videos</h1>
                             </div>
                             {/* Card */}
-                            <ul className={'grid grid-cols-4 gap-4'}>
+                            <ul className={'grid grid-cols-2 lg:grid-cols-4 gap-4'}>
                                 {combinedData.map((item) => (
                                     <VideoCard data={item} key={item?.etag} />
                                 ))}
