@@ -46,7 +46,7 @@ export default function Header() {
               </div>
 
               <div className={'text-sm text-center'}>
-               <a href={'mailto:palka402@gmail.com'}>palka4023@gmail.com</a> | +91 9211820262
+                <a href={'mailto:palka402@gmail.com'}>palka4023@gmail.com</a> | +91 9211820262
               </div>
             </div>
           </div>

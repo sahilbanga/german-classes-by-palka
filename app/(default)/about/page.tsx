@@ -3,9 +3,9 @@ export default function About() {
     return (
         <section className="relative content-none">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
-                <div className="pt-32 pb-12 md:pt-40 md:pb-20">
+                <div className="pt-32 md:pt-40">
                     {/* Page header */}
-                    <div className="max-w-3xl mx-auto pb-12 md:pb-20">
+                    <div className="max-w-3xl mx-auto">
                         <h1 className="h1">About Me</h1>
                         <p>
                             I was born and raised in Delhi. I learned German at the Goethe-Institut in New Delhi. I am patient and reliable. Currently, I live in Bangalore, and it has been a great experience making friends with people from different cultures. I have also learned the local language, which has helped me understand the challenges of learning a new language.
@@ -25,7 +25,6 @@ export default function About() {
                             <li>Homework Assignments</li>
                         </ul>
                     </div>
-
                 </div>
             </div>
         </section>

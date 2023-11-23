@@ -7,9 +7,9 @@ export default function Courses() {
     return (
         <section className="relative content-none">
             <div className="max-w-6xl mx-auto px-4 sm:px-6">
-                <div className="pt-32 pb-12 md:pt-40 md:pb-20">
+                <div className="pt-32 md:pt-40">
                     {/* Page header */}
-                    <div className="max-w-4xl mx-auto pb-12 md:pb-20">
+                    <div className="max-w-4xl mx-auto">
                         <h1 className="h1">German Language Learning Levels</h1>
                         <div className={'mt-5'}>
                             <h2 className="h3 text-purple-600 pb-2">Level A1 – Basic knowledge</h2>
